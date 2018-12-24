@@ -1,0 +1,25 @@
+div.jumbotron {
+    text-align: center;
+    background-color: yellow;
+    background-image: url("../images/solo.webp");
+}
+body {
+    background-color: #9ce7e6;
+}
+#p1 {
+    background-color: #3c2f88;   
+    color: #3c2f88;
+    
+    padding: 1%;
+    
+    margin: 2% 0% 0%;
+}
+#p2 {
+    background-color: #776ead;
+    color: #776ead;
+
+}
+#p3 {
+    background-color: #279fbd;
+    color: #279fbd;
+}
