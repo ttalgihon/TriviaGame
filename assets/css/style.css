@@ -6,6 +6,18 @@ div.jumbotron {
 body {
     background-color: #9ce7e6;
 }
+div.hiddenbody {
+    display: none;
+}
+button.btn-warning {
+    display: none;
+}
+span.timerplaceholder {
+    font-size: 24px;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: #3c2f88;
+}
 #p1 {
     background-color: #3c2f88;   
     color: #3c2f88;
